@@ -1,0 +1,340 @@
+# 🎬 PRODUCTION SCRIPT: WILL hay BE GOING TO?
+ 
+> **Series:** Global Success English · Lớp 10 · Unit 2 – Humans and the Environment
+> **Chuyên đề:** Ngữ pháp – *will* vs *be going to*
+> **Tiêu đề video:** `WILL hay BE GOING TO? Chọn đúng trong 60 giây`
+> **Trạng thái:** `DRAFT v1.0` · **Người phụ trách:** _[điền tên]_ · **Ngày:** _[điền ngày]_
+ 
+---
+ 
+## 1. Thông số kỹ thuật
+ 
+| Hạng mục | Giá trị |
+|---|---|
+| Nền tảng | TikTok · Facebook Reels · YouTube Shorts |
+| Tỷ lệ / độ phân giải | **9:16 · 1080 × 1920** |
+| Tốc độ khung hình | 30 fps |
+| Thời lượng | **60 giây chính xác** (không dư quá 0,5s) |
+| Nhịp cắt cảnh | 3–5 giây/lần đổi hình hoặc đổi chữ |
+| Định dạng xuất | MP4 (H.264), chất lượng cao, bitrate khuyến nghị ≥ 12 Mbps |
+| Vùng an toàn (safe zone) | Chừa **15% phía trên** và **20% phía dưới**; chừa **10% lề phải** (nút like/comment của app) |
+ 
+## 2. Brand Guide (chỉnh lại theo nhận diện kênh của bạn)
+ 
+> ⚠️ Các thông số dưới đây là **đề xuất mặc định**. Nếu kênh đã có brand guide riêng, hãy thay vào bảng này và giữ nhất quán cho cả series. Chọn font có hỗ trợ đầy đủ dấu tiếng Việt.
+ 
+| Thành phần | Font (đề xuất) | Màu (HEX) | Ghi chú |
+|---|---|---|---|
+| Tiêu đề lớn | Montserrat ExtraBold / Be Vietnam Pro ExtraBold | `#FFFFFF` + viền `#0B3D2E` | Cỡ 80–96 |
+| Từ khóa tiếng Anh | Montserrat Bold | **Vàng `#FFD400`** | Cỡ 64–72, viền đen 4px |
+| Chữ tiếng Việt / phụ đề | Be Vietnam Pro SemiBold | Trắng `#FFFFFF` + viền đen `#000000` | Cỡ 44–52 |
+| Màu nhấn **BE GOING TO** | – | **Xanh dương `#1E90FF`** | Dùng nhất quán toàn video |
+| Màu nhấn **WILL** | – | **Cam `#FF7A1A`** | Dùng nhất quán toàn video |
+| Đáp án đúng | – | Xanh lá `#2ECC71` | |
+| Nền chủ đề Unit 2 | – | Xanh lá đậm `#0B3D2E` → xanh nhạt `#A8E6A1` (gradient) | Chủ đề môi trường |
+ 
+**Quy ước màu xuyên suốt:** BE GOING TO = 🔵 xanh dương · WILL = 🟠 cam. Người xem nhìn màu là biết đang nói cấu trúc nào.
+ 
+## 3. Tổng quan nhịp video
+ 
+| Mốc thời gian | Phần | Mục tiêu |
+|---|---|---|
+| 0:00–0:05 | **Hook** | Giữ người xem trong 3 giây đầu |
+| 0:05–0:20 | **Body 1 · BE GOING TO** | Kế hoạch có sẵn + dự đoán có căn cứ |
+| 0:20–0:35 | **Body 2 · WILL** | Quyết định tức thì + ý kiến + lời hứa/đề nghị |
+| 0:35–0:50 | **Summary · Mẹo nhớ** | Chốt công thức dễ nhớ |
+| 0:50–0:58 | **Mini test** | Cho học sinh tự áp dụng |
+| 0:58–1:00 | **CTA** | Lưu video + Follow |
+ 
+**Ký hiệu nhịp ngắt trong lời thoại:** `/` = ngắt ngắn (0,3s) · `//` = ngắt dài (0,7s) · **IN HOA** = nhấn mạnh · 🔊 = tăng năng lượng.
+ 
+---
+ 
+## 4. Kịch bản chi tiết theo cảnh
+ 
+### 🎯 CẢNH 1 · HOOK (0:00–0:05)
+ 
+**Voiceover** *(năng lượng cao, nói nhanh, mắt nhìn thẳng vào học sinh)*
+> "Will hay be going to? / Bao nhiêu bạn **MẤT ĐIỂM** vì nhầm hai cấu trúc này! // 60 giây thôi, / hết nhầm ngay!"
+ 
+**Visual / B-roll**
+- Nền gradient xanh lá. Hiện hai ô lớn hai bên màn hình: ô trái **WILL** (cam), ô phải **BE GOING TO** (xanh dương), giữa có dấu **"?"** đỏ lớn nhấp nháy.
+- Hiệu ứng CapCut: *Shake* nhẹ khi chữ "MẤT ĐIỂM" xuất hiện; icon bài kiểm tra có dấu **X** đỏ bay vào.
+- Cắt cảnh 1 lần ở giây thứ 2,5 (zoom từ hai ô sang dấu "?").
+**Sound Effects**
+- 0:00 `Whoosh` ngắn khi hai ô trượt vào
+- 0:02 `Pop` khi dấu "?" xuất hiện
+- 0:03 `Hit/Impact` nhẹ khi hiện chữ "MẤT ĐIỂM"
+**Text Overlay**
+| Thời điểm | Nội dung | Font / Cỡ / Màu |
+|---|---|---|
+| 0:00–0:05 | `WILL` / `BE GOING TO` | Montserrat ExtraBold · 90 · Cam `#FF7A1A` / Xanh `#1E90FF` |
+| 0:00–0:05 | `?` | Montserrat ExtraBold · 160 · Đỏ `#FF3B30` |
+| 0:03–0:05 | `Em có hay nhầm?` | Be Vietnam Pro SemiBold · 48 · Trắng, viền đen |
+ 
+---
+ 
+### 🔵 CẢNH 2 · BODY 1 – BE GOING TO (0:05–0:20)
+ 
+#### 2A. Kế hoạch có sẵn (0:05–0:12)
+ 
+**Voiceover**
+> "Đầu tiên, **BE GOING TO**. / Dùng khi kế hoạch **ĐÃ CÓ SẴN** trong đầu. // *We are going to clean up the park this Sunday.* // Tụi mình **sẽ** dọn công viên vào Chủ nhật!"
+ 
+**Visual / B-roll**
+- Nền chuyển sang tông xanh dương nhạt. Ảnh minh họa: nhóm học sinh cầm chổi, túi rác, găng tay trong công viên (`students planning a park clean-up, bright illustration, 9:16`).
+- Hiện **tờ lịch** có chữ "SUNDAY" được khoanh tròn để thể hiện "kế hoạch đã có".
+- Công thức hiện từng phần theo tiếng đọc: `S + am/is/are + going to + V`.
+**Sound Effects**
+- 0:05 `Whoosh` chuyển cảnh
+- 0:06 `Pop` khi tiêu đề BE GOING TO hiện
+- 0:08–0:11 `Pop` nhỏ khi mỗi vế của công thức hiện ra
+- 0:11 `Ding` khi câu ví dụ hoàn chỉnh
+**Text Overlay**
+| Thời điểm | Nội dung | Font / Cỡ / Màu |
+|---|---|---|
+| 0:05–0:12 | `BE GOING TO` | Montserrat ExtraBold · 88 · Xanh `#1E90FF`, viền trắng |
+| 0:06–0:12 | `Kế hoạch ĐÃ CÓ SẴN` | Be Vietnam Pro Bold · 52 · Trắng |
+| 0:08–0:12 | `S + am/is/are + going to + V` | Montserrat Bold · 52 · Vàng `#FFD400` |
+| 0:09–0:12 | `We are going to clean up the park this Sunday.` | Montserrat Bold · 56 · Vàng; từ **going to** đổi sang xanh `#1E90FF` |
+ 
+#### 2B. Dự đoán có căn cứ (0:12–0:20)
+ 
+**Voiceover**
+> "Hoặc khi em dự đoán **CÓ CĂN CỨ** / vì em đang **NHÌN THẤY** dấu hiệu! // *Look at those clouds!* / *It is going to rain.* // Mây đen kịt thế kia, / sắp mưa rồi!"
+ 
+**Visual / B-roll**
+- Ảnh bầu trời mây đen (`dark storm clouds over a green park, illustration`). Mây **trượt vào từ phải**, sau đó giọt mưa rơi (hiệu ứng *Rain* trên CapCut).
+- Icon **mắt 👀** nhấp nháy cạnh chữ "CÓ CĂN CỨ".
+- Cuối cảnh hiện nhãn: `✅ BE GOING TO` (xanh lá).
+**Sound Effects**
+- 0:12 `Whoosh` nhẹ
+- 0:13 `Pop` khi icon mắt hiện
+- 0:15 `Thunder` rất nhỏ (volume thấp, ≤ 20%) khi nói "clouds"
+- 0:19 `Ding` khi hiện dấu tích ✅
+**Text Overlay**
+| Thời điểm | Nội dung | Font / Cỡ / Màu |
+|---|---|---|
+| 0:12–0:20 | `Dự đoán CÓ CĂN CỨ 👀` | Be Vietnam Pro Bold · 52 · Trắng |
+| 0:14–0:20 | `Look at those clouds!` | Montserrat Bold · 60 · Vàng `#FFD400` |
+| 0:16–0:20 | `It is going to rain.` | Montserrat Bold · 60 · Vàng; **is going to** đổi sang xanh `#1E90FF` |
+ 
+---
+ 
+### 🟠 CẢNH 3 · BODY 2 – WILL (0:20–0:35)
+ 
+#### 3A. Quyết định ngay lúc nói (0:20–0:27)
+ 
+**Voiceover** 🔊
+> "Còn **WILL**? / Dùng khi em quyết định **NGAY LÚC NÓI**! // *The bin is full. I will empty it.* // Thùng rác đầy rồi, / để mình đổ!"
+ 
+**Visual / B-roll**
+- Đổi tông nền sang **cam nhạt** để báo hiệu chuyển sang cấu trúc mới (hiệu ứng *Slide* hoặc *Color wipe* bằng đúng màu cam).
+- Ảnh minh họa: học sinh nhìn thùng rác đầy, **bóng đèn 💡 sáng lên** trên đầu (`student noticing a full bin and having an idea, light bulb above head, illustration`).
+- Công thức `S + will + V` hiện sau.
+**Sound Effects**
+- 0:20 `Whoosh` mạnh (đổi tông màu)
+- 0:21 `Pop` khi tiêu đề WILL hiện
+- 0:24 `Ding` (tiếng bóng đèn bật sáng) khi nói "I will empty it"
+**Text Overlay**
+| Thời điểm | Nội dung | Font / Cỡ / Màu |
+|---|---|---|
+| 0:20–0:27 | `WILL` | Montserrat ExtraBold · 100 · Cam `#FF7A1A`, viền trắng |
+| 0:21–0:27 | `Quyết định NGAY LÚC NÓI 💡` | Be Vietnam Pro Bold · 52 · Trắng |
+| 0:23–0:27 | `The bin is full. I will empty it.` | Montserrat Bold · 56 · Vàng; từ **will** đổi sang cam `#FF7A1A` |
+ 
+#### 3B. Dự đoán theo ý kiến (0:27–0:31)
+ 
+**Voiceover**
+> "Hoặc dự đoán theo **Ý KIẾN**: / *I think, I believe*… // *I think she will win!*"
+ 
+**Visual / B-roll**
+- Bong bóng suy nghĩ (thought bubble) hiện cụm **"I think…"** và **"I believe…"** lần lượt; ảnh bạn nữ đang cầm cúp (`girl holding a trophy, illustration`).
+- Có thể zoom nhẹ vào cụm từ khóa ở giây 0:29.
+**Sound Effects**
+- 0:27 `Pop` × 2 (mỗi cụm I think / I believe một tiếng)
+- 0:30 `Ding` khi câu hoàn chỉnh
+**Text Overlay**
+| Thời điểm | Nội dung | Font / Cỡ / Màu |
+|---|---|---|
+| 0:27–0:31 | `Dự đoán theo Ý KIẾN` | Be Vietnam Pro Bold · 52 · Trắng |
+| 0:27–0:31 | `I think / I believe + will` | Montserrat Bold · 56 · Vàng; **will** màu cam |
+| 0:29–0:31 | `I think she will win.` | Montserrat Bold · 56 · Vàng |
+ 
+#### 3C. Lời hứa / lời đề nghị (0:31–0:35)
+ 
+**Voiceover**
+> "Và cả **LỜI HỨA**, / **LỜI ĐỀ NGHỊ** nữa! // *I will help you!*"
+ 
+**Visual / B-roll**
+- Hai bạn học sinh bắt tay (lời hứa) rồi một bạn đưa tay ra giúp (lời đề nghị); hai icon **🤝** và **🙋** xuất hiện lần lượt.
+**Sound Effects**
+- 0:31 `Pop` · 0:32 `Pop` · 0:34 `Ding` nhẹ
+**Text Overlay**
+| Thời điểm | Nội dung | Font / Cỡ / Màu |
+|---|---|---|
+| 0:31–0:35 | `Lời hứa 🤝 · Lời đề nghị 🙋` | Be Vietnam Pro Bold · 52 · Trắng |
+| 0:33–0:35 | `I will help you!` | Montserrat Bold · 60 · Vàng; **will** màu cam |
+ 
+---
+ 
+### 🧠 CẢNH 4 · SUMMARY – MẸO NHỚ (0:35–0:50)
+ 
+**Voiceover** 🔊 *(chậm lại một chút, nhấn từng cụm để học sinh kịp ghi nhớ)*
+> "Nhớ công thức này nhé! // Đã **LÊN KẾ HOẠCH** → / **GOING TO**. // Vừa **NGHĨ RA**, / hoặc đoán theo **Ý KIẾN** → / **WILL**. // Lặp lại nào: / kế hoạch, going to! / Vừa nghĩ ra, will! // Nhớ hai câu này, / là làm đúng!"
+ 
+**Visual / B-roll**
+- Nền tối (`#0B3D2E`) để **khung công thức nổi bật**. Chia đôi màn hình:
+  - Nửa trên (xanh dương): `📅 ĐÃ LÊN KẾ HOẠCH → BE GOING TO`
+  - Nửa dưới (cam): `💡 VỪA NGHĨ RA / Ý KIẾN → WILL`
+- Mỗi dòng **trượt vào từng dòng một**, đồng bộ với tiếng đọc.
+- Giây 0:44–0:48 (đoạn lặp lại): chữ nhấp nháy theo nhịp đọc, như karaoke.
+- Có thể thêm khung viền sáng quanh công thức để học sinh dễ chụp màn hình.
+**Sound Effects**
+- 0:35 `Whoosh` chuyển cảnh
+- 0:37 `Pop` khi dòng 1 hiện · 0:41 `Pop` khi dòng 2 hiện
+- 0:44–0:47 `Tick` nhẹ theo từng nhịp đọc lặp lại
+- 0:49 `Ding` + hiệu ứng lấp lánh khi hiện **"✔ GHI NHỚ"**
+**Text Overlay**
+| Thời điểm | Nội dung | Font / Cỡ / Màu |
+|---|---|---|
+| 0:35–0:37 | `MẸO NHỚ` | Montserrat ExtraBold · 90 · Vàng `#FFD400` |
+| 0:37–0:50 | `📅 Kế hoạch → GOING TO` | Be Vietnam Pro ExtraBold · 64 · Xanh `#1E90FF` trên nền trắng bo góc |
+| 0:41–0:50 | `💡 Vừa nghĩ ra / Ý kiến → WILL` | Be Vietnam Pro ExtraBold · 64 · Cam `#FF7A1A` trên nền trắng bo góc |
+| 0:49–0:50 | `✔ GHI NHỚ` | Montserrat ExtraBold · 72 · Xanh lá `#2ECC71` |
+ 
+---
+ 
+### ✍️ CẢNH 5 · MINI TEST (0:50–0:58)
+ 
+**Voiceover**
+> "Thử tài nhé! // *We have already decided. We ___ buy a new house.* // Em chọn **will** hay **going to**? // 3… 2… 1… // Đáp án: **ARE GOING TO**! / Vì **ĐÃ QUYẾT ĐỊNH** rồi!"
+ 
+**Visual / B-roll**
+- Nền sáng, câu hỏi nằm giữa màn hình, chỗ trống `___` nhấp nháy.
+- Hai nút lựa chọn **A. will** (cam) và **B. are going to** (xanh dương) ở dưới câu hỏi.
+- **Đếm ngược 3-2-1** (hiệu ứng số lớn chạy ở góc, khoảng 0:53–0:55).
+- Giây 0:55: nút B **sáng xanh lá**, hiện ✅, chỗ trống được điền chữ `are going to`; nút A mờ đi.
+- Highlight cụm **"already decided"** bằng nét gạch chân vàng khi nói "ĐÃ QUYẾT ĐỊNH".
+**Sound Effects**
+- 0:50 `Whoosh` · 0:51 `Pop` khi câu hỏi hiện
+- 0:53 / 0:54 / 0:55 `Tick` ×3 theo nhịp đếm ngược
+- 0:55 `Ding` (đáp án đúng) + hiệu ứng lấp lánh
+- 0:57 `Pop` khi gạch chân "already decided"
+**Text Overlay**
+| Thời điểm | Nội dung | Font / Cỡ / Màu |
+|---|---|---|
+| 0:50–0:55 | `MINI TEST` | Montserrat ExtraBold · 72 · Vàng `#FFD400` |
+| 0:51–0:58 | `We have already decided.`<br>`We ___ buy a new house.` | Montserrat Bold · 60 · Trắng, viền đen |
+| 0:52–0:55 | `A. will` · `B. are going to` | Montserrat Bold · 52 · Cam / Xanh dương |
+| 0:55–0:58 | `✅ are going to` | Montserrat ExtraBold · 68 · Xanh lá `#2ECC71` |
+ 
+---
+ 
+### 📲 CẢNH 6 · CTA (0:58–1:00)
+ 
+**Voiceover** 🔊
+> "Lưu video / và follow để ôn bài nhé!"
+ 
+**Visual / B-roll**
+- Nền đơn sắc xanh lá, **icon Lưu (bookmark)** và nút **Follow** phóng to từng cái một, có hiệu ứng nảy (bounce).
+- Logo kênh + tên kênh hiện ở giữa màn hình trong 1 giây cuối. Dừng hình sạch, không để hiệu ứng thừa.
+**Sound Effects**
+- 0:58 `Pop` · 0:59 `Ding` · 1:00 kết thúc, nhạc nền **fade-out** nhanh (≈ 0,5s)
+**Text Overlay**
+| Thời điểm | Nội dung | Font / Cỡ / Màu |
+|---|---|---|
+| 0:58–1:00 | `📌 LƯU VIDEO · FOLLOW` | Montserrat ExtraBold · 72 · Vàng `#FFD400`, viền đen |
+| 0:59–1:00 | `[Tên kênh] · Global Success 10` | Be Vietnam Pro SemiBold · 44 · Trắng |
+ 
+---
+ 
+## 5. Voiceover liền mạch (để thu âm một lượt)
+ 
+> Will hay be going to? / Bao nhiêu bạn **MẤT ĐIỂM** vì nhầm hai cấu trúc này! // 60 giây thôi, / hết nhầm ngay!
+>
+> Đầu tiên, **BE GOING TO**. / Dùng khi kế hoạch **ĐÃ CÓ SẴN** trong đầu. // *We are going to clean up the park this Sunday.* // Tụi mình **sẽ** dọn công viên vào Chủ nhật! // Hoặc khi em dự đoán **CÓ CĂN CỨ** / vì em đang **NHÌN THẤY** dấu hiệu! // *Look at those clouds!* / *It is going to rain.* // Mây đen kịt thế kia, / sắp mưa rồi!
+>
+> Còn **WILL**? / Dùng khi em quyết định **NGAY LÚC NÓI**! // *The bin is full. I will empty it.* // Thùng rác đầy rồi, / để mình đổ! // Hoặc dự đoán theo **Ý KIẾN**: / *I think, I believe*… // *I think she will win!* // Và cả **LỜI HỨA**, / **LỜI ĐỀ NGHỊ** nữa! // *I will help you!*
+>
+> Nhớ công thức này nhé! // Đã **LÊN KẾ HOẠCH** → / **GOING TO**. // Vừa **NGHĨ RA**, / hoặc đoán theo **Ý KIẾN** → / **WILL**. // Lặp lại nào: / kế hoạch, going to! / Vừa nghĩ ra, will! // Nhớ hai câu này, / là làm đúng!
+>
+> Thử tài nhé! // *We have already decided. We ___ buy a new house.* // Em chọn **will** hay **going to**? // 3… 2… 1… // Đáp án: **ARE GOING TO**! / Vì **ĐÃ QUYẾT ĐỊNH** rồi!
+>
+> Lưu video / và follow để ôn bài nhé!
+ 
+> ⏱️ **Kiểm tra thời lượng:** đọc thử theo nhịp thật và bấm giờ. Nếu thu âm dài quá 60 giây, hãy rút gọn **Cảnh 3B/3C** hoặc đoạn lặp lại ở **Cảnh 4** trước tiên. Không nên tăng tốc độ đọc.
+ 
+## 6. Hướng dẫn thu âm
+ 
+- Đọc với **năng lượng như đang coaching trực tiếp**: mỉm cười khi đọc để giọng sáng hơn, nhấn mạnh các từ IN HOA.
+- Đọc **câu tiếng Anh chậm hơn** câu tiếng Việt khoảng 10% để học sinh nghe rõ.
+- Thu ở nơi yên tĩnh, micro cách miệng 10–15 cm; thu **2–3 take** mỗi cảnh, chọn take tốt nhất.
+- Nếu dùng giọng AI (TTS): thêm dấu phẩy và dấu chấm đúng chỗ đã đánh `/`, `//` để giọng ngắt nghỉ tự nhiên.
+## 7. Mix âm thanh
+ 
+| Lớp âm thanh | Mức âm lượng gợi ý |
+|---|---|
+| Giọng đọc (Voiceover) | 100% (làm chuẩn, đỉnh khoảng −6 dB) |
+| Nhạc nền (nhịp nhẹ, vui, không lời) | 15–20% |
+| SFX (Pop, Whoosh, Ding) | 30–40%, riêng Thunder ≤ 20% |
+ 
+Dùng nhạc nền **không bản quyền** hoặc nhạc trong thư viện thương mại của nền tảng. Kiểm tra giấy phép trước khi đăng.
+ 
+## 8. Checklist dựng trên CapCut
+ 
+- [ ] Tạo dự án **9:16, 1080×1920, 30fps**
+- [ ] Import voiceover, cắt khoảng lặng thừa, canh đúng **60,0 giây**
+- [ ] Đặt ảnh/B-roll khớp các mốc thời gian ở mục 4
+- [ ] Thêm text overlay đúng font, cỡ, màu theo **Brand Guide (mục 2)**
+- [ ] Thêm SFX đúng thời điểm; mix âm lượng theo mục 7
+- [ ] Kiểm tra **vùng an toàn**: không có chữ quan trọng bị che bởi nút app
+- [ ] Kiểm tra chính tả tiếng Việt và tiếng Anh trên từng frame
+- [ ] Xem lại trên điện thoại thật ở độ sáng thấp (kiểm tra độ tương phản chữ)
+- [ ] Xuất MP4 1080×1920, 30fps; đặt tên theo quy ước ở mục 10
+## 9. Caption và hashtag
+ 
+```text
+🌱 WILL hay BE GOING TO? Chỉ 60 giây là phân biệt được!
+ 
+📅 Kế hoạch đã có → be going to
+💡 Vừa nghĩ ra, đoán theo ý kiến → will
+ 
+Em làm đúng mini test chưa? Comment đáp án bên dưới nhé 👇
+📌 Lưu video để ôn trước giờ kiểm tra!
+ 
+#GlobalSuccess #TiengAnh10 #NguPhap #Unit2 #WillVsBeGoingTo #HocTiengAnh
+```
+ 
+## 10. Cấu trúc thư mục đề xuất cho GitHub
+ 
+```text
+global-success-english/
+├── README.md
+├── brand-guide.md
+├── grade-10/
+│   └── unit-02-humans-and-the-environment/
+│       ├── will-vs-be-going-to_production-script.md   <- file này
+│       ├── assets/
+│       │   ├── images/        # ảnh minh họa (9:16)
+│       │   ├── audio/         # voiceover, SFX, nhạc nền
+│       │   └── capcut/        # file dự án, preset chữ
+│       └── export/            # video đã xuất (nên dùng Git LFS hoặc lưu ngoài repo)
+└── templates/
+    └── production-script-template.md
+```
+ 
+> 💡 File video và audio dung lượng lớn nên lưu bằng **Git LFS** hoặc trên Google Drive, chỉ giữ liên kết trong repo.
+ 
+**Quy ước đặt tên:** `g10_u2_grammar_will-vs-going-to_v1.mp4`
+ 
+## 11. Nhật ký phiên bản
+ 
+| Phiên bản | Ngày | Nội dung thay đổi |
+|---|---|---|
+| v1.0 | _[điền ngày]_ | Bản nháp đầu tiên, theo khung phân cảnh gốc |
+ 
+---
+ 
+*Nội dung ngữ pháp bám theo chương trình Tiếng Anh 10 Global Success, Unit 2. Hãy đối chiếu ví dụ với sách giáo khoa trước khi quay.*
+ 
